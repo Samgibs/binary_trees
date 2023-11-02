@@ -1,4 +1,4 @@
-<h1 class="gap">0x1D. C - Binary trees</h1>
+0x1D. C - Binary trees</h1>
 
 
   <ul class="list-group metadata" id="project-metadata">
@@ -23,18 +23,7 @@
     </li>
 
 <li class="list-group-item">
-        <i class="fa fa-calendar fa-fw"></i>
-          Project over - took place from 07-19-2021 to 07-23-2021
-          - you're done with <span id="student_task_done_percentage">100</span>% of tasks.
-      </li>
-
-
-
-<li class="list-group-item">
-        <i class="fa fa-check-square fa-fw"></i>
-        QA review fully automated.
-      </li>
-
+        <i class="fa fa-calendar fa-fw"></i
 
 </ul>
 
